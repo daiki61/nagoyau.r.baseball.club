@@ -1,0 +1,15 @@
+.index_content {}
+
+
+.photos {
+    display: flex;
+    justify-content: center;
+}
+
+.main_photo {
+    margin: 0 auto;
+    width: 80%;
+    height: 50%;
+    border: solid 2px black;
+    border-radius: 5%;
+}

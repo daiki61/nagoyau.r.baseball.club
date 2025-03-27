@@ -1,0 +1,26 @@
+body {
+    background-color: beige;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    padding: 0 30px;
+}
+
+.header_ttl {
+
+    font-size: 30px;
+    width: 40%;
+}
+
+.header_nav_list {
+    display: flex;
+    font-weight: bold;
+}
+
+.header_nav_item:not(:last-child) {
+    margin-right: 30px;
+}

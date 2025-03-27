@@ -1,0 +1,67 @@
+body {
+    background-color: azure;
+}
+
+.first_body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    margin-left: 20%;
+}
+
+.back_button {
+    margin-right: 30px;
+}
+
+.intro {
+    padding: 0 20%;
+}
+
+.intro p {
+    margin: 0;
+    padding: 0;
+    border: solid 3px #6091d3;
+    border-radius: 10px;
+}
+
+.second_body {
+
+    margin-left: 20%;
+
+}
+
+.daikou {
+    width: 30%;
+    height: auto;
+}
+
+.yamanoue {
+    width: 30%;
+    height: auto;
+}
+
+.third_body {
+    padding: 0 20%;
+}
+
+.third_body h3 {
+
+    font-weight: bold;
+
+}
+
+.third_body p {
+    margin: 0;
+    padding: 0;
+    border: solid 3px #6091d3;
+    border-radius: 10px;
+}
+
+.adress {
+    margin-left: 20%;
+}
+
+.rights {
+    margin-left: 20%;
+}
